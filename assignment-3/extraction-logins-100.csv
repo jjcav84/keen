@@ -1,0 +1,101 @@
+platform,referrer,geo_information.province,geo_information.city,geo_information.country,geo_information.coordinates.0,geo_information.coordinates.1,geo_information.postal_code,geo_information.country_code,geo_information.continent,keen.keen.timestamp,keen.created_at,keen.id,user.gender,user.age,user.id,ip_address
+Mobile,google / organic,Seoul,Dongjak-gu,Republic of Korea,126.9515,37.5006,null,KR,Asia,2019-11-26T13:55:00.741Z,2019-11-26T21:55:02.839Z,5ddd9f360933710001d1df0c,male,41,971,110.35.154.184
+Mobile,google / organic,Seoul,Dongjak-gu,Republic of Korea,126.9515,37.5006,null,KR,Asia,2019-11-27T02:55:00.741Z,2019-11-26T21:55:02.839Z,5ddd9f360933710001d1df0b,male,41,971,110.35.154.184
+Web,direct / none,null,null,Republic of Korea,126.97409999999999,37.5112,null,KR,Asia,2019-11-26T16:55:00.741Z,2019-11-26T21:55:02.845Z,5ddd9f360933710001d1df1c,male,32,977,175.234.32.203
+Web,direct / none,null,null,Republic of Korea,126.97409999999999,37.5112,null,KR,Asia,2019-11-26T21:55:00.741Z,2019-11-26T21:55:02.845Z,5ddd9f360933710001d1df1b,male,32,977,175.234.32.203
+Web,direct / none,null,null,Republic of Korea,126.97409999999999,37.5112,null,KR,Asia,2019-11-27T05:55:00.741Z,2019-11-26T21:55:02.845Z,5ddd9f360933710001d1df1a,male,32,977,175.234.32.203
+Mobile,google / organic,null,null,Japan,139.69,35.69,null,JP,Asia,2019-11-27T00:55:00.741Z,2019-11-26T21:55:02.832Z,5ddd9f360933710001d1def9,male,35,959,112.136.51.57
+Mobile,direct / none,Tokyo,Sumida,Japan,139.8209,35.7329,131-0031,JP,Asia,2019-11-26T20:55:00.741Z,2019-11-26T21:55:02.832Z,5ddd9f360933710001d1def8,female,32,958,210.194.172.198
+Mobile,direct / none,Tokyo,Sumida,Japan,139.8209,35.7329,131-0031,JP,Asia,2019-11-26T17:55:00.741Z,2019-11-26T21:55:02.831Z,5ddd9f360933710001d1def7,female,32,958,210.194.172.198
+Mobile,direct / none,Tokyo,Sumida,Japan,139.8209,35.7329,131-0031,JP,Asia,2019-11-26T18:55:00.741Z,2019-11-26T21:55:02.831Z,5ddd9f360933710001d1def6,female,32,958,210.194.172.198
+Mobile,google / organic,null,null,Republic of Korea,126.97409999999999,37.5112,null,KR,Asia,2019-11-26T18:55:00.741Z,2019-11-26T21:55:02.835Z,5ddd9f360933710001d1df01,female,33,963,42.37.77.132
+Mobile,google / organic,null,null,Republic of Korea,126.97409999999999,37.5112,null,KR,Asia,2019-11-26T19:55:00.741Z,2019-11-26T21:55:02.835Z,5ddd9f360933710001d1df00,female,33,963,42.37.77.132
+Mobile,google / organic,null,null,Republic of Korea,126.97409999999999,37.5112,null,KR,Asia,2019-11-27T03:55:00.741Z,2019-11-26T21:55:02.834Z,5ddd9f360933710001d1deff,female,33,963,42.37.77.132
+Mobile,google / ads,Tokyo,Chiyoda-ku,Japan,139.7595,35.6995,101-0064,JP,Asia,2019-11-27T04:55:00.740Z,2019-11-26T21:55:02.823Z,5ddd9f360933710001d1dee2,female,33,948,220.145.131.131
+Mobile,google / ads,Tokyo,Chiyoda-ku,Japan,139.7595,35.6995,101-0064,JP,Asia,2019-11-26T15:55:00.740Z,2019-11-26T21:55:02.822Z,5ddd9f360933710001d1dee1,female,33,948,220.145.131.131
+Mobile,google / organic,Shanxi,null,China,112.4708,37.7269,null,CN,Asia,2019-11-26T10:55:00.740Z,2019-11-26T21:55:02.822Z,5ddd9f360933710001d1dee0,other,33,947,118.74.189.201
+Mobile,facebook / cpc,null,null,Republic of Korea,126.97409999999999,37.5112,null,KR,Asia,2019-11-27T06:55:00.739Z,2019-11-26T21:55:02.809Z,5ddd9f360933710001d1debd,male,32,930,211.253.236.89
+Mobile,facebook / cpc,null,null,Republic of Korea,126.97409999999999,37.5112,null,KR,Asia,2019-11-26T20:55:00.739Z,2019-11-26T21:55:02.808Z,5ddd9f360933710001d1debc,male,32,930,211.253.236.89
+Mobile,facebook / cpc,null,null,Republic of Korea,126.97409999999999,37.5112,null,KR,Asia,2019-11-26T13:55:00.739Z,2019-11-26T21:55:02.808Z,5ddd9f360933710001d1debb,male,32,930,211.253.236.89
+Mobile,google / ads,Central and Western District,Mid Levels,Hong Kong,114.15,22.2833,null,HK,Asia,2019-11-27T02:55:00.740Z,2019-11-26T21:55:02.818Z,5ddd9f360933710001d1ded6,male,32,942,61.18.175.229
+Mobile,google / ads,Central and Western District,Mid Levels,Hong Kong,114.15,22.2833,null,HK,Asia,2019-11-26T18:55:00.740Z,2019-11-26T21:55:02.818Z,5ddd9f360933710001d1ded5,male,32,942,61.18.175.229
+Mobile,google / ads,Central and Western District,Mid Levels,Hong Kong,114.15,22.2833,null,HK,Asia,2019-11-26T19:55:00.740Z,2019-11-26T21:55:02.817Z,5ddd9f360933710001d1ded4,male,32,942,61.18.175.229
+Mobile,google / ads,Guangdong,Guangzhou,China,113.25,23.1167,null,CN,Asia,2019-11-26T22:55:00.739Z,2019-11-26T21:55:02.810Z,5ddd9f360933710001d1dec0,male,32,931,1.184.12.161
+Mobile,google / ads,Guangdong,Guangzhou,China,113.25,23.1167,null,CN,Asia,2019-11-26T23:55:00.739Z,2019-11-26T21:55:02.809Z,5ddd9f360933710001d1debf,male,32,931,1.184.12.161
+Mobile,google / ads,Guangdong,Guangzhou,China,113.25,23.1167,null,CN,Asia,2019-11-26T12:55:00.739Z,2019-11-26T21:55:02.809Z,5ddd9f360933710001d1debe,male,32,931,1.184.12.161
+Mobile,google / ads,null,null,Iran,51.4231,35.6961,null,IR,Asia,2019-11-26T18:55:00.741Z,2019-11-26T21:55:02.836Z,5ddd9f360933710001d1df04,male,35,966,217.219.86.27
+Mobile,google / organic,Lampung,Terbanggi Besar,Indonesia,105.2182,-4.879,null,ID,Asia,2019-11-26T08:55:00.740Z,2019-11-26T21:55:02.816Z,5ddd9f360933710001d1ded0,female,32,940,39.246.183.202
+Mobile,google / organic,Lampung,Terbanggi Besar,Indonesia,105.2182,-4.879,null,ID,Asia,2019-11-27T05:55:00.740Z,2019-11-26T21:55:02.815Z,5ddd9f360933710001d1decf,female,32,940,39.246.183.202
+Mobile,google / organic,Limburg Province,Sint-Truiden,Belgium,5.2,50.8,3800,BE,Europe,2019-11-26T17:55:00.741Z,2019-11-26T21:55:02.844Z,5ddd9f360933710001d1df19,female,32,976,84.193.82.182
+Mobile,google / organic,Limburg Province,Sint-Truiden,Belgium,5.2,50.8,3800,BE,Europe,2019-11-26T22:55:00.741Z,2019-11-26T21:55:02.844Z,5ddd9f360933710001d1df18,female,32,976,84.193.82.182
+Mobile,google / organic,Limburg Province,Sint-Truiden,Belgium,5.2,50.8,3800,BE,Europe,2019-11-27T03:55:00.741Z,2019-11-26T21:55:02.844Z,5ddd9f360933710001d1df17,female,32,976,84.193.82.182
+Web,google / organic,null,null,Netherlands,4.8995,52.3824,null,NL,Europe,2019-11-26T15:55:00.741Z,2019-11-26T21:55:02.839Z,5ddd9f360933710001d1df0a,male,32,970,145.162.143.80
+Mobile,google / organic,null,null,Germany,9.491,51.2993,null,DE,Europe,2019-11-27T01:55:00.741Z,2019-11-26T21:55:02.835Z,5ddd9f360933710001d1df02,male,33,964,195.51.23.49
+Mobile,google / organic,Geneva,Geneva,Switzerland,6.1481,46.1956,1204,CH,Europe,2019-11-26T19:55:00.741Z,2019-11-26T21:55:02.841Z,5ddd9f360933710001d1df10,female,32,973,195.70.2.228
+Mobile,google / organic,Nicosia,Nicosia,Cyprus,33.3667,35.1667,null,CY,Europe,2019-11-26T20:55:00.741Z,2019-11-26T21:55:02.829Z,5ddd9f360933710001d1def2,other,32,956,81.4.172.254
+Mobile,google / ads,Leinster,Dublin,Ireland,-6.2489,53.3331,D02,IE,Europe,2019-11-26T18:55:00.741Z,2019-11-26T21:55:02.843Z,5ddd9f360933710001d1df16,female,33,975,99.80.123.70
+Mobile,google / ads,Leinster,Dublin,Ireland,-6.2489,53.3331,D02,IE,Europe,2019-11-26T15:55:00.741Z,2019-11-26T21:55:02.843Z,5ddd9f360933710001d1df15,female,33,975,99.80.123.70
+Mobile,google / ads,Leinster,Dublin,Ireland,-6.2489,53.3331,D02,IE,Europe,2019-11-26T17:55:00.741Z,2019-11-26T21:55:02.842Z,5ddd9f360933710001d1df14,female,33,975,99.80.123.70
+Mobile,google / organic,null,null,Netherlands,4.8995,52.3824,null,NL,Europe,2019-11-27T06:55:00.740Z,2019-11-26T21:55:02.828Z,5ddd9f360933710001d1deee,male,32,953,145.202.188.124
+Mobile,google / organic,null,null,Netherlands,4.8995,52.3824,null,NL,Europe,2019-11-27T00:55:00.740Z,2019-11-26T21:55:02.827Z,5ddd9f360933710001d1deed,male,32,953,145.202.188.124
+Mobile,google / organic,null,null,Netherlands,4.8995,52.3824,null,NL,Europe,2019-11-26T16:55:00.740Z,2019-11-26T21:55:02.827Z,5ddd9f360933710001d1deec,male,32,953,145.202.188.124
+Mobile,google / organic,null,null,Germany,9.491,51.2993,null,DE,Europe,2019-11-27T06:55:00.740Z,2019-11-26T21:55:02.820Z,5ddd9f360933710001d1dedc,male,33,945,89.48.252.106
+Mobile,google / organic,null,null,Germany,9.491,51.2993,null,DE,Europe,2019-11-26T14:55:00.740Z,2019-11-26T21:55:02.820Z,5ddd9f360933710001d1dedb,male,33,945,89.48.252.106
+Mobile,google / organic,null,null,Germany,9.491,51.2993,null,DE,Europe,2019-11-26T09:55:00.740Z,2019-11-26T21:55:02.820Z,5ddd9f360933710001d1deda,male,33,945,89.48.252.106
+Web,google / organic,Budapest,Budapest,Hungary,19.0833,47.5,1012,HU,Europe,2019-11-26T21:55:00.740Z,2019-11-26T21:55:02.813Z,5ddd9f360933710001d1deca,female,33,936,147.7.110.83
+Mobile,google / organic,null,null,United Kingdom,-0.1224,51.4964,null,GB,Europe,2019-11-26T21:55:00.740Z,2019-11-26T21:55:02.817Z,5ddd9f360933710001d1ded3,male,32,941,213.2.188.82
+Mobile,google / organic,null,null,United Kingdom,-0.1224,51.4964,null,GB,Europe,2019-11-26T17:55:00.740Z,2019-11-26T21:55:02.817Z,5ddd9f360933710001d1ded2,male,32,941,213.2.188.82
+Mobile,google / organic,null,null,United Kingdom,-0.1224,51.4964,null,GB,Europe,2019-11-26T21:55:00.740Z,2019-11-26T21:55:02.816Z,5ddd9f360933710001d1ded1,male,32,941,213.2.188.82
+Mobile,direct / none,null,null,United Kingdom,-0.1224,51.4964,null,GB,Europe,2019-11-26T18:55:00.740Z,2019-11-26T21:55:02.815Z,5ddd9f360933710001d1dece,male,31,939,147.152.114.47
+Mobile,google / ads,null,null,null,null,null,null,null,null,2019-11-26T20:55:00.741Z,2019-11-26T21:55:02.834Z,5ddd9f360933710001d1defd,male,35,961,255.135.69.52
+Mobile,google / organic,null,null,null,null,null,null,null,null,2019-11-27T00:55:00.740Z,2019-11-26T21:55:02.827Z,5ddd9f360933710001d1deeb,male,35,952,246.83.81.121
+Mobile,google / organic,null,null,null,null,null,null,null,null,2019-11-26T14:55:00.740Z,2019-11-26T21:55:02.826Z,5ddd9f360933710001d1deea,male,35,952,246.83.81.121
+Mobile,google / organic,null,null,null,null,null,null,null,null,2019-11-27T03:55:00.741Z,2019-11-26T21:55:02.829Z,5ddd9f360933710001d1def1,other,31,955,247.199.90.37
+Mobile,google / organic,null,null,null,null,null,null,null,null,2019-11-26T23:55:00.741Z,2019-11-26T21:55:02.829Z,5ddd9f360933710001d1def0,male,32,954,247.214.20.2
+Mobile,google / organic,null,null,null,null,null,null,null,null,2019-11-26T22:55:00.741Z,2019-11-26T21:55:02.828Z,5ddd9f360933710001d1deef,male,32,954,247.214.20.2
+Mobile,google / ads,null,null,null,null,null,null,null,null,2019-11-27T02:55:00.740Z,2019-11-26T21:55:02.819Z,5ddd9f360933710001d1ded9,male,32,944,247.171.22.106
+Mobile,google / ads,null,null,null,null,null,null,null,null,2019-11-26T22:55:00.740Z,2019-11-26T21:55:02.819Z,5ddd9f360933710001d1ded8,male,32,944,247.171.22.106
+Mobile,google / ads,null,null,null,null,null,null,null,null,2019-11-27T01:55:00.740Z,2019-11-26T21:55:02.813Z,5ddd9f360933710001d1dec9,female,32,935,233.54.26.126
+Mobile,google / ads,null,null,null,null,null,null,null,null,2019-11-26T19:55:00.740Z,2019-11-26T21:55:02.813Z,5ddd9f360933710001d1dec8,female,32,935,233.54.26.126
+Mobile,google / ads,null,null,null,null,null,null,null,null,2019-11-26T14:55:00.740Z,2019-11-26T21:55:02.812Z,5ddd9f360933710001d1dec7,female,32,935,233.54.26.126
+Web,google / organic,Virginia,Ashburn,United States,-77.4728,39.0481,20149,US,North America,2019-11-27T02:55:00.741Z,2019-11-26T21:55:02.838Z,5ddd9f360933710001d1df09,female,32,969,3.239.2.74
+Web,google / organic,Virginia,Ashburn,United States,-77.4728,39.0481,20149,US,North America,2019-11-26T09:55:00.741Z,2019-11-26T21:55:02.838Z,5ddd9f360933710001d1df08,female,32,969,3.239.2.74
+Web,google / organic,Virginia,Ashburn,United States,-77.4728,39.0481,20149,US,North America,2019-11-26T10:55:00.741Z,2019-11-26T21:55:02.837Z,5ddd9f360933710001d1df07,female,32,969,3.239.2.74
+Mobile,google / ads,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T10:55:00.741Z,2019-11-26T21:55:02.842Z,5ddd9f360933710001d1df13,female,32,974,16.112.81.73
+Mobile,google / ads,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T19:55:00.741Z,2019-11-26T21:55:02.842Z,5ddd9f360933710001d1df12,female,32,974,16.112.81.73
+Mobile,google / ads,null,null,United States,-97.822,37.751,null,US,North America,2019-11-27T02:55:00.741Z,2019-11-26T21:55:02.841Z,5ddd9f360933710001d1df11,female,32,974,16.112.81.73
+Mobile,google / ads,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T15:55:00.741Z,2019-11-26T21:55:02.840Z,5ddd9f360933710001d1df0f,male,32,972,214.237.57.99
+Mobile,google / ads,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T19:55:00.741Z,2019-11-26T21:55:02.840Z,5ddd9f360933710001d1df0e,male,32,972,214.237.57.99
+Mobile,google / ads,null,null,United States,-97.822,37.751,null,US,North America,2019-11-27T03:55:00.741Z,2019-11-26T21:55:02.840Z,5ddd9f360933710001d1df0d,male,32,972,214.237.57.99
+Mobile,google / ads,Manitoba,Carman,Canada,-98,49.5,R0G,CA,North America,2019-11-26T16:55:00.741Z,2019-11-26T21:55:02.830Z,5ddd9f360933710001d1def5,male,35,957,162.255.148.93
+Mobile,google / ads,Manitoba,Carman,Canada,-98,49.5,R0G,CA,North America,2019-11-26T23:55:00.741Z,2019-11-26T21:55:02.830Z,5ddd9f360933710001d1def4,male,35,957,162.255.148.93
+Mobile,google / ads,Manitoba,Carman,Canada,-98,49.5,R0G,CA,North America,2019-11-26T17:55:00.741Z,2019-11-26T21:55:02.830Z,5ddd9f360933710001d1def3,male,35,957,162.255.148.93
+Web,google / organic,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T21:55:00.741Z,2019-11-26T21:55:02.837Z,5ddd9f360933710001d1df06,other,33,968,7.210.104.157
+Mobile,google / organic,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T23:55:00.741Z,2019-11-26T21:55:02.837Z,5ddd9f360933710001d1df05,female,32,967,17.250.31.231
+Mobile,google / organic,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T13:55:00.741Z,2019-11-26T21:55:02.836Z,5ddd9f360933710001d1df03,male,32,965,107.50.238.107
+Mobile,google / ads,Maryland,Parkville,United States,-76.5418,39.3876,21234,US,North America,2019-11-26T18:55:00.740Z,2019-11-26T21:55:02.810Z,5ddd9f360933710001d1dec2,other,35,932,71.121.198.221
+Mobile,google / ads,Maryland,Parkville,United States,-76.5418,39.3876,21234,US,North America,2019-11-26T17:55:00.739Z,2019-11-26T21:55:02.810Z,5ddd9f360933710001d1dec1,other,35,932,71.121.198.221
+Mobile,direct / none,null,null,United States,-97.822,37.751,null,US,North America,2019-11-27T00:55:00.740Z,2019-11-26T21:55:02.825Z,5ddd9f360933710001d1dee7,male,32,950,50.232.50.150
+Mobile,direct / none,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T14:55:00.740Z,2019-11-26T21:55:02.825Z,5ddd9f360933710001d1dee6,male,32,950,50.232.50.150
+Mobile,google / organic,British Columbia,Richmond,Canada,-123.1168,49.1836,V6X,CA,North America,2019-11-27T02:55:00.741Z,2019-11-26T21:55:02.833Z,5ddd9f360933710001d1defc,female,33,960,207.200.134.150
+Mobile,google / organic,British Columbia,Richmond,Canada,-123.1168,49.1836,V6X,CA,North America,2019-11-26T21:55:00.741Z,2019-11-26T21:55:02.833Z,5ddd9f360933710001d1defb,female,33,960,207.200.134.150
+Mobile,google / organic,British Columbia,Richmond,Canada,-123.1168,49.1836,V6X,CA,North America,2019-11-27T00:55:00.741Z,2019-11-26T21:55:02.832Z,5ddd9f360933710001d1defa,female,33,960,207.200.134.150
+Mobile,google / organic,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T14:55:00.740Z,2019-11-26T21:55:02.822Z,5ddd9f360933710001d1dedf,male,32,946,55.85.99.201
+Mobile,google / organic,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T19:55:00.740Z,2019-11-26T21:55:02.821Z,5ddd9f360933710001d1dede,male,32,946,55.85.99.201
+Mobile,google / organic,null,null,United States,-97.822,37.751,null,US,North America,2019-11-27T00:55:00.740Z,2019-11-26T21:55:02.821Z,5ddd9f360933710001d1dedd,male,32,946,55.85.99.201
+Mobile,google / organic,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T19:55:00.740Z,2019-11-26T21:55:02.818Z,5ddd9f360933710001d1ded7,other,33,943,131.10.76.219
+Mobile,google / ads,Morelos,Tlaquiltenango,Mexico,-99.1621,18.6369,62980,MX,North America,2019-11-27T02:55:00.741Z,2019-11-26T21:55:02.834Z,5ddd9f360933710001d1defe,female,33,962,189.235.191.248
+Web,google / organic,null,null,Colombia,-74.0758,4.5981,null,CO,South America,2019-11-27T02:55:00.740Z,2019-11-26T21:55:02.826Z,5ddd9f360933710001d1dee9,other,32,951,190.26.200.189
+Web,google / organic,null,null,Colombia,-74.0758,4.5981,null,CO,South America,2019-11-26T23:55:00.740Z,2019-11-26T21:55:02.825Z,5ddd9f360933710001d1dee8,other,32,951,190.26.200.189
+Mobile,google / organic,null,null,United States,-97.822,37.751,null,US,North America,2019-11-27T00:55:00.740Z,2019-11-26T21:55:02.815Z,5ddd9f360933710001d1decd,female,32,938,54.63.99.28
+Mobile,google / organic,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T22:55:00.740Z,2019-11-26T21:55:02.814Z,5ddd9f360933710001d1decc,female,32,938,54.63.99.28
+Mobile,google / organic,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T17:55:00.740Z,2019-11-26T21:55:02.812Z,5ddd9f360933710001d1dec5,male,33,933,21.187.173.144
+Mobile,google / organic,null,null,United States,-97.822,37.751,null,US,North America,2019-11-27T02:55:00.740Z,2019-11-26T21:55:02.811Z,5ddd9f360933710001d1dec4,male,33,933,21.187.173.144
+Mobile,google / organic,null,null,United States,-97.822,37.751,null,US,North America,2019-11-27T03:55:00.740Z,2019-11-26T21:55:02.811Z,5ddd9f360933710001d1dec3,male,33,933,21.187.173.144
+Web,direct / none,null,null,United States,-97.822,37.751,null,US,North America,2019-11-27T02:55:00.739Z,2019-11-26T21:55:02.807Z,5ddd9f360933710001d1deba,male,35,929,149.75.134.103
+Web,direct / none,null,null,United States,-97.822,37.751,null,US,North America,2019-11-26T16:55:00.739Z,2019-11-26T21:55:02.807Z,5ddd9f360933710001d1deb9,male,35,929,149.75.134.103
+Mobile,direct / none,null,null,Mexico,-99.0111,19.4371,null,MX,North America,2019-11-27T02:55:00.740Z,2019-11-26T21:55:02.824Z,5ddd9f360933710001d1dee5,other,31,949,189.214.224.231
+Mobile,direct / none,null,null,Mexico,-99.0111,19.4371,null,MX,North America,2019-11-27T00:55:00.740Z,2019-11-26T21:55:02.824Z,5ddd9f360933710001d1dee4,other,31,949,189.214.224.231
+Mobile,direct / none,null,null,Mexico,-99.0111,19.4371,null,MX,North America,2019-11-26T08:55:00.740Z,2019-11-26T21:55:02.823Z,5ddd9f360933710001d1dee3,other,31,949,189.214.224.231
+Mobile,google / organic,Oregon,Boardman,United States,-119.7143,45.8491,97818,US,North America,2019-11-26T23:55:00.740Z,2019-11-26T21:55:02.814Z,5ddd9f360933710001d1decb,female,31,937,52.39.108.72
+Mobile,google / organic,Buenos Aires F.D.,null,Argentina,-58.6725,-34.5875,null,AR,South America,2019-11-26T16:55:00.740Z,2019-11-26T21:55:02.812Z,5ddd9f360933710001d1dec6,female,31,934,181.164.58.59

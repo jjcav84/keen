@@ -1,0 +1,1 @@
+{"query":{"analysis_type":"sum","event_collection":"purchases","filters":[],"timeframe":"this_14_days","timezone":-21600,"target_property":"user.age","percentile":null},"result":17237}

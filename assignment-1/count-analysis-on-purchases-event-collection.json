@@ -1,0 +1,1 @@
+{"query":{"analysis_type":"count","event_collection":"purchases","filters":[],"timeframe":"this_14_days","timezone":-21600,"percentile":null},"result":628}
