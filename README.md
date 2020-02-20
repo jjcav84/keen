@@ -1,6 +1,6 @@
 # keen-training
 
-The event.js file in the root folder is a very simple example no how to stream in a single event. It includeds an example of how to configure the client with the project ID as well as write API key. The project id and api key are not valid but are used for example. The master API key also works but should not be used due to security best practices which require least permissions be used.
+The event.js file in the root folder is a very simple example no how to stream in a single event. It includes an example of how to configure the client properly. As a rule working with Keen APIs requires the proper project ID as well as a read or write API key. The project ID and API keys found here are not valid. They are instead use to provide a clear unabstracted example. The master API key also works but should not be used due to security best practices which require least permissions be used.
 
 Make sure not to post active IDs or API keys to your public repositories (dev, test, staging, production environment or otherwise). If you do accidently post and of your keys that is ok as I have done this myself but please be sure to regenerate your keys when that happens. To do this through your keen account log and navigate to the corresponding project. Then click on the access tab in the specific project for your organization. There you will find a button that can regenerate your keys. After you regenerate the keys please be sure to update them in any code that you have which they have been embedded within.
 
@@ -24,8 +24,12 @@ The assignment-3 folder contains a JavaScript file that will stream a single eve
 
 The following keen-cli command can be used in your terminal to create a stream of 100 events from the JSON file found within the assgnment-3 folder. I removed whitespace from the JSON file to prep it for being used by the keen-cli. If you’re using newline delimited JSON files please use the same command. Note that you can also use event data in CSV form by simply adding a csv flag to the command. See the second command example below for reference.
 
-keen events:add -c sales_status --file events_100.json
+```console
+foo@bar:~$ keen events:add -c sales_status --file events_100.json
+```
 
-keen events:add -c sales_status --file events_100.csv --csv
+```console
+foo@bar:~$ keen events:add -c sales_status --file events_100.csv --csv
+```
 
-There is also a CSV file in repository-3 that was returned by running an extraction in the explorer as extractions are a very powerful tool for building out the data models that will best suit your specific use case.
+There is also a CSV file in the assignment-3 that was returned by running an extraction in the explorer. Extractions can be a very powerful tool and I often press them into service when data modeling for new solutions.
