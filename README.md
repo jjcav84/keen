@@ -1,4 +1,4 @@
-# keen-assignment
+# keen-training
 
 The event.js file in the root folder is a very simple example no how to create an event stream with an example of how to configure the client with the project id as well as write API key. The project id and api key are not valid but are used for example. 
 
