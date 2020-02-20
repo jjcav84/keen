@@ -20,7 +20,7 @@ As shown create a keen property and nest the timestamp property within "keen" in
 
 ## Assignment 3
 
-The assignment-3 folder contains a JS file that will stream a single event as well as as a JSON file that I created with 100 data-objects containing the data values that correspond to the collection and properties created with the JavaScript file.
+The assignment-3 folder contains a JavaScript file that will stream a single event into Keen. It also contains a JSON file that I created with 100 data-objects containing the data values that correspond to the event collection and properties created with the JavaScript file. Note that if the properties aren't the ones that have been created from the inital event created from the first file they will simply be added to the event collection as additional properties. The schemaless nature of Keen allows for this flexibility and for may different ways to strucutrue data most of which are **_NOT_** ideal. Please reach out to your Keen.io rep to help you get set up properly as early as possible when defining how you will structure your data to most effeciently make use of your resources when onboarding or when creating new solutions on top of Keen.
 
 The following keen-cli command can be used in your terminal to create a stream of 100 events from the JSON file found within the assgnment-3 folder. I removed whitespace from the JSON file to prep it for being used by the keen-cli. If you’re using newline delimited JSON files please use the same command. Note that you can also use event data in CSV form by simply adding a csv flag to the command. See the second command example below for reference.
 
