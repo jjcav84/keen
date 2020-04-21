@@ -29,6 +29,8 @@ export type Props = {
   xDomainKey: string;
   /** Key used to create domain for Y scale */
   yDomainKey: string;
+  /** Keys that are disabled for rendering data series */
+  disabledKeys?: string[];
   /** X Scale settings */
   xScaleSettings?: ScaleSettings;
   /** Y Scale settings */
@@ -45,6 +47,7 @@ export const BubbleChart: FC<Props> = ({
   xDomainKey,
   yDomainKey,
   labelSelector,
+  disabledKeys = [],
   valueKey,
   theme = defaultTheme,
   margins = defaultMargins,
@@ -61,6 +64,7 @@ export const BubbleChart: FC<Props> = ({
     valueKey,
     dimension: svgDimensions,
     labelSelector,
+    disabledKeys,
     xDomainKey,
     yDomainKey,
     colors: theme.colors,
