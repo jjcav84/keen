@@ -38,6 +38,8 @@ import { theme, margins } from './theme';
 
 import { Theme, TimePrecision, ScaleSettings } from './types';
 
+import { bubbleColorScale } from './utils';
+
 export {
   Theme,
   TimePrecision,
@@ -74,4 +76,5 @@ export {
   sortAreaKeys,
   theme,
   margins,
+  bubbleColorScale,
 };
