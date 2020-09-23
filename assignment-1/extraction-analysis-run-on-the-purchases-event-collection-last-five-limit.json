@@ -1,1 +1,108 @@
-{"query":{"analysis_type":"extraction","event_collection":"purchases","filters":[],"timeframe":"this_14_days","timezone":-21600,"percentile":null,"latest":"5"},"result":[{"keen":{"timestamp":"2019-11-26T21:55:27.693Z","created_at":"2019-11-26T21:55:27.693Z","id":"5ddd9f4f6922e00001ecaf01"},"screen":{"category":"Shop","name":"Equipment Store"},"null_property":null,"array_property":[1,2,3,"a","b","c"],"item":{"price":740,"on_sale":false,"id":746},"user":{"prior_balance":390,"level":1,"referring_source":"fb_ad_10","has_paid":true,"id":15},"quantity":1},{"keen":{"timestamp":"2019-11-26T21:55:27.579Z","created_at":"2019-11-26T21:55:27.579Z","id":"5ddd9f4f4667360001a49526"},"screen":{"category":"Shop","name":"Equipment Store"},"null_property":null,"array_property":[1,2,3,"a","b","c"],"item":{"price":177,"on_sale":false,"id":852},"user":{"prior_balance":982,"level":8,"referring_source":"fb_ad_3","has_paid":true,"id":10},"quantity":2},{"keen":{"timestamp":"2019-11-26T21:55:27.505Z","created_at":"2019-11-26T21:55:27.505Z","id":"5ddd9f4fe48ab600014488d4"},"screen":{"category":"Shop","name":"Equipment Store"},"null_property":null,"array_property":[1,2,3,"a","b","c"],"item":{"price":329,"on_sale":false,"id":724},"user":{"prior_balance":151,"level":2,"referring_source":"fb_ad_1","has_paid":true,"id":2},"quantity":2},{"keen":{"timestamp":"2019-11-26T21:55:27.433Z","created_at":"2019-11-26T21:55:27.433Z","id":"5ddd9f4f11939800013f829d"},"screen":{"category":"Shop","name":"Equipment Store"},"null_property":null,"array_property":[1,2,3,"a","b","c"],"item":{"price":835,"on_sale":false,"id":794},"user":{"prior_balance":642,"level":10,"referring_source":"fb_ad_6","has_paid":true,"id":10},"quantity":5},{"keen":{"timestamp":"2019-11-26T21:55:27.361Z","created_at":"2019-11-26T21:55:27.361Z","id":"5ddd9f4f67394f0001f2f086"},"screen":{"category":"Shop","name":"Equipment Store"},"null_property":null,"array_property":[1,2,3,"a","b","c"],"item":{"price":880,"on_sale":false,"id":930},"user":{"prior_balance":290,"level":2,"referring_source":"fb_ad_20","has_paid":true,"id":17},"quantity":2}]}
+{
+  "query": {
+    "analysis_type": "extraction",
+    "event_collection": "purchases",
+    "filters": [],
+    "timeframe": "this_14_days",
+    "timezone": -21600,
+    "percentile": null,
+    "latest": "5"
+  },
+  "result": [
+    {
+      "keen": {
+        "timestamp": "2019-11-26T21:55:27.693Z",
+        "created_at": "2019-11-26T21:55:27.693Z",
+        "id": "5ddd9f4f6922e00001ecaf01"
+      },
+      "screen": { "category": "Shop", "name": "Equipment Store" },
+      "null_property": null,
+      "array_property": [1, 2, 3, "a", "b", "c"],
+      "item": { "price": 740, "on_sale": false, "id": 746 },
+      "user": {
+        "prior_balance": 390,
+        "level": 1,
+        "referring_source": "fb_ad_10",
+        "has_paid": true,
+        "id": 15
+      },
+      "quantity": 1
+    },
+    {
+      "keen": {
+        "timestamp": "2019-11-26T21:55:27.579Z",
+        "created_at": "2019-11-26T21:55:27.579Z",
+        "id": "5ddd9f4f4667360001a49526"
+      },
+      "screen": { "category": "Shop", "name": "Equipment Store" },
+      "null_property": null,
+      "array_property": [1, 2, 3, "a", "b", "c"],
+      "item": { "price": 177, "on_sale": false, "id": 852 },
+      "user": {
+        "prior_balance": 982,
+        "level": 8,
+        "referring_source": "fb_ad_3",
+        "has_paid": true,
+        "id": 10
+      },
+      "quantity": 2
+    },
+    {
+      "keen": {
+        "timestamp": "2019-11-26T21:55:27.505Z",
+        "created_at": "2019-11-26T21:55:27.505Z",
+        "id": "5ddd9f4fe48ab600014488d4"
+      },
+      "screen": { "category": "Shop", "name": "Equipment Store" },
+      "null_property": null,
+      "array_property": [1, 2, 3, "a", "b", "c"],
+      "item": { "price": 329, "on_sale": false, "id": 724 },
+      "user": {
+        "prior_balance": 151,
+        "level": 2,
+        "referring_source": "fb_ad_1",
+        "has_paid": true,
+        "id": 2
+      },
+      "quantity": 2
+    },
+    {
+      "keen": {
+        "timestamp": "2019-11-26T21:55:27.433Z",
+        "created_at": "2019-11-26T21:55:27.433Z",
+        "id": "5ddd9f4f11939800013f829d"
+      },
+      "screen": { "category": "Shop", "name": "Equipment Store" },
+      "null_property": null,
+      "array_property": [1, 2, 3, "a", "b", "c"],
+      "item": { "price": 835, "on_sale": false, "id": 794 },
+      "user": {
+        "prior_balance": 642,
+        "level": 10,
+        "referring_source": "fb_ad_6",
+        "has_paid": true,
+        "id": 10
+      },
+      "quantity": 5
+    },
+    {
+      "keen": {
+        "timestamp": "2019-11-26T21:55:27.361Z",
+        "created_at": "2019-11-26T21:55:27.361Z",
+        "id": "5ddd9f4f67394f0001f2f086"
+      },
+      "screen": { "category": "Shop", "name": "Equipment Store" },
+      "null_property": null,
+      "array_property": [1, 2, 3, "a", "b", "c"],
+      "item": { "price": 880, "on_sale": false, "id": 930 },
+      "user": {
+        "prior_balance": 290,
+        "level": 2,
+        "referring_source": "fb_ad_20",
+        "has_paid": true,
+        "id": 17
+      },
+      "quantity": 2
+    }
+  ]
+}
